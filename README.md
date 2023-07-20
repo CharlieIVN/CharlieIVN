@@ -1,3 +1,4 @@
+<div  align="center"> 
 ### Hi there 👋
 # 💫 About Me:
 ⭐I am a front-end development student and <br>I am currently participating in the Oracle ONE project at Alura Latam.⭐<br><br>💻 Im currently working on my own projects.<br>💪 Im looking to collaborate with others devs.<br>🧠 Im currently learning web delopment. <br><br>
@@ -30,3 +31,4 @@
 [![](https://visitcount.itsvg.in/api?id=CharlieIVN&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
