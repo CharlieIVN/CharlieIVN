@@ -3,7 +3,8 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10C68&width=435&lines=%E2%AD%90I+am+a+front-end+development+student.+and+%3Cbr%3EI+am+currently+participating+in+the+Oracle+ONE+project+at+Alura+Latam.%E2%AD%90" alt="Typing SVG" /></a>
   <br><br>
-  💻 Im currently working on my own projects.<br>💪 Im looking to collaborate with others devs.<br>🧠 Im currently learning web delopment. <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br><br>
+  💻 Im currently working on my own projects.<br>💪 Im looking to collaborate with others devs.<br>🧠 Im currently learning web delopment. <br><br>
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 ## 🌐 Socials:
