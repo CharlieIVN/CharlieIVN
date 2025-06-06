@@ -1,12 +1,14 @@
 <div  align="center"> 
+  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10C68&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B10C68&width=435&lines=%E2%AD%90I+am+a+front-end+development+student.+and+%3Cbr%3EI+am+currently+participating+in+the+Oracle+ONE+project+at+Alura+Latam.%E2%AD%90" alt="Typing SVG" /></a>
-  <br><br>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> <br><br>
+  
   💻 Im currently working on my own projects.<br>💪 Im looking to collaborate with others devs.<br>🧠 Im currently learning web delopment. <br><br>
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /><br><br>
+  
 
-
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charlieivn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/charlyIVN) 
 
